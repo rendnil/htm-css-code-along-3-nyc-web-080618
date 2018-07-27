@@ -50,12 +50,12 @@ figcaption {
 
 #logo h1{ /*selects h1 if they are inside id of logo*/
    font-family: "Kirang Haerang", cursive;
-   
-  
 }
 
 #logo h2{ /*selects h1 if they are inside id of logo*/
    font-family: "Abel", cursive;
-   
-  
+
 }
+
+/*Pseudo Selector */
+
