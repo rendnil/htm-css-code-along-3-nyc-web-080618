@@ -46,9 +46,10 @@ figcaption {
      background-color: aqua;
  
 }
+/* Descendent Selector*/
 
-#logo h1{
-  
-  
+#logo h1{ /*selects h1 if they are inside id of logo*/
+   font-family: "Kirang Haerang", cursive;
+   
   
 }
