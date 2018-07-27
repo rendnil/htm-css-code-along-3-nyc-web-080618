@@ -53,3 +53,9 @@ figcaption {
    
   
 }
+
+#logo h2{ /*selects h1 if they are inside id of logo*/
+   font-family: "Abel", cursive;
+   
+  
+}
