@@ -29,3 +29,15 @@ figcaption {
   font: normal 0.75em/1.5em "Kirang Haerang", cursive;
   color: rgba(0,0,255,1);
 }
+
+
+/* Class selector (applied to as many elements as you like)*/
+
+.milk-text { /* select elements with a class = "milk-text" */
+    font: bold 2.6em "Kirang Haerang", cursive;
+    color: white;
+    text-shadow: 0 2px 3px #000;
+
+
+
+}
